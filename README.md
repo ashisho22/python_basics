@@ -122,6 +122,136 @@ Concepts Used :-
 * Conditional Statements
 * Logical Operators
 
+PROGRAM :5
+
+Voting Eligibility Checker (Python)
+
+This is a simple Python program that takes the user's age as input and determines whether they are eligible to vote or not.
+
+Features :-
+
+* Takes age as input from the user
+* Uses conditional statements (if-else)
+* Checks whether the user meets the minimum voting age requirement
+
+Logic :-
+
+The program checks if the entered age is greater than or equal to 18.
+If the age is 18 or above, the user is eligible to vote; otherwise, the user is not eligible.
+
+Example :-
+
+Enter your age: 20
+
+Output :-
+Eligible to vote
+
+Concepts Used :-
+
+* Input/Output
+* Conditional Statements
+* Comparison Operators
+
+PROGRAM :6
+
+Student Grade Calculator (Python)
+
+This is a simple Python program that takes marks as input from the user and assigns a grade based on the score.
+
+Features :-
+
+* Takes marks as input from the user
+* Uses conditional statements (if-elif-else)
+* Assigns grades based on predefined ranges
+
+Logic :-
+
+The program checks the marks using multiple conditional statements.
+If marks are 90 or above, grade A is assigned; if 75 or above, grade B; if 50 or above, grade C; otherwise, the result is Fail.
+
+Example :-
+
+Enter marks: 82
+
+Output :-
+Grade: B
+
+Concepts Used :-
+
+* Input/Output
+* Conditional Statements
+* Comparison Operators
+
+PROGRAM :7
+
+Simple Calculator (Python)
+
+This is a simple Python program that takes two numbers and an operator as input from the user and performs basic arithmetic operations.
+
+Features :-
+
+* Takes two numbers as input from the user
+* Accepts an operator (+, -, *, /)
+* Uses conditional statements (if-elif-else)
+* Handles division by zero
+* Displays result based on selected operation
+
+Logic :-
+
+The program checks the entered operator and performs the corresponding arithmetic operation.
+If the operator is +, addition is performed; if -, subtraction; if *, multiplication; if /, division is performed only if the second number is not zero. Otherwise, it shows an error message.
+
+Example :-
+
+Enter first number: 10
+Enter second number: 5
+Enter operator (+, -, *, /): *
+
+Output :-
+Result: 50
+
+Concepts Used :-
+
+* Input/Output
+* Conditional Statements
+* Arithmetic Operators
+* Nested If
+
+PROGRAM :8
+
+Profit and Loss Calculator (Python)
+
+This is a simple Python program that takes cost price and selling price as input from the user and determines whether there is a profit, loss, or no profit no loss.
+
+Features :-
+
+* Takes cost price and selling price as input from the user
+* Uses conditional statements (if-elif-else)
+* Calculates profit or loss amount
+* Handles the case of no profit no loss
+
+Logic :-
+
+The program compares the selling price with the cost price.
+If the selling price is greater than the cost price, it calculates profit; if the cost price is greater, it calculates loss; otherwise, there is no profit no loss.
+
+Example :-
+
+Enter cost price: 100
+Enter selling price: 120
+
+Output :-
+Profit: 20
+
+Concepts Used :-
+
+* Input/Output
+* Conditional Statements
+* Arithmetic Operators
+* Comparison Operators
+
+
+
 
 🚀 Status :
 Learning and uploading programs regularly.
