@@ -1,4 +1,5 @@
-This repository contains my Python learning programs.
+This Folder contains Conditional Based Programs .
+
 🎯 Goal : To build a strong foundation in Python
 
 PROGRAM NO :1
